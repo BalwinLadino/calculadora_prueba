@@ -1,6 +1,7 @@
 body {
   width: 300px;
   display: flex;
+  height: 200px;
 }
 
 #calculadora {
